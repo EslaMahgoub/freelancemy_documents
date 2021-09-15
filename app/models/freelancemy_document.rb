@@ -1,0 +1,2 @@
+class FreelancemyDocument < ApplicationRecord
+end
